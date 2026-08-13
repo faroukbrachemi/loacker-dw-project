@@ -10,7 +10,7 @@ The project covers the complete data warehouse lifecycle, from data generation a
 
 A short video demonstrates the implemented data warehouse, analytical queries, and Power BI dashboard.
 
-**[▶️ Watch the Project Demo](Dashboard_Demo.mov)**
+**[▶️ Watch the Project Demo](dashboard_demo.mp4)**
 
 The demo includes the interactive Power BI dashboard with filters for:
 
@@ -99,8 +99,8 @@ The process consists of:
 
 ```text
 ├── README.md
-├── Project_Report.pdf
-├── Dashboard_Demo.mov
+├── project_report.pdf
+├── dashboard_demo.mp4
 ├── data_generation_script.py
 ├── data_warehousing_script.sql
 └── dirty_data_generated.csv
@@ -110,8 +110,8 @@ The process consists of:
 
 | File                          | Description                                                                                                 |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| `Project_Report.pdf`          | Complete project report covering the conceptual, logical, physical, ETL, querying, and visualization phases |
-| `Dashboard_Demo.mov`          | Video demonstration of the project and Power BI dashboard                                                   |
+| `project_report.pdf`          | Complete project report covering the conceptual, logical, physical, ETL, querying, and visualization phases |
+| `dashboard_demo.mp4`          | Video demonstration of the project and Power BI dashboard                                                   |
 | `data_generation_script.py`   | Python script used to generate the production dataset                                                       |
 | `data_warehousing_script.sql` | SQL script used to create, clean, populate, and query the data warehouse                                    |
 | `dirty_data_generated.csv`    | Generated raw dataset used as input for the ETL process                                                     |
