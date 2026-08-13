@@ -10,7 +10,8 @@ The project covers the complete data warehouse lifecycle, from data generation a
 
 A short video demonstrates the implemented data warehouse, analytical queries, and Power BI dashboard.
 
-**[▶️ Watch the Project Demo](dashboard_demo.mp4)**
+https://github.com/user-attachments/assets/860c8029-2eff-4df1-bd73-fddf5d4c587b
+
 
 The demo includes the interactive Power BI dashboard with filters for:
 
